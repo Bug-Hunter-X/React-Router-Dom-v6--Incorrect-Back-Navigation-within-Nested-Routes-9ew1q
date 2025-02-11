@@ -1,0 +1,2 @@
+# React Router Dom v6: Incorrect Back Navigation within Nested Routes
+This repository demonstrates a common error encountered when using React Router v6 with nested routes and Links for navigation.  The issue involves unexpected behavior when navigating 'back' from a nested route, failing to go to the intended parent route. The solution implements a proper navigation method to address this problem.
